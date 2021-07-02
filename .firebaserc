@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "what-s-app-clone-f22cc",
+    "no": "whatsapp-clone-e1859",
+    "staging": "whatsapp-clone-e1859",
+    "-p": "whatsapp-clone-e1859"
+  }
+}
